@@ -1,21 +1,108 @@
+# 집사 ZIPSA
+![banner](https://user-images.githubusercontent.com/26182769/176642232-17e93622-e3ed-455e-9a9d-47d717b8beaa.png)
 
-![0001](https://user-images.githubusercontent.com/48342926/176114772-8e99d200-28bb-4a26-86c7-a92f131465e3.jpg)
-![0002](https://user-images.githubusercontent.com/48342926/176114774-110f07a6-34d5-4755-91af-9beabdccd56c.jpg)
-![0003](https://user-images.githubusercontent.com/48342926/176114780-7d35502e-4d8f-48f4-becc-b2d20b1300cd.jpg)
-![0004](https://user-images.githubusercontent.com/48342926/176114787-d4110a9a-158d-4736-ac87-161e2ab3e94a.jpg)
-![0005](https://user-images.githubusercontent.com/48342926/176114791-2207d36b-c645-430d-aa48-e6fbba41041d.jpg)
-![0006](https://user-images.githubusercontent.com/48342926/176114795-8fe3b32c-ff04-446a-a281-a3b7456a46df.jpg)
-![0007](https://user-images.githubusercontent.com/48342926/176114796-3210a07a-bcb1-47c4-914b-b076bd56edc1.jpg)
-![0008](https://user-images.githubusercontent.com/48342926/176114798-5fa757f5-0756-469c-ad18-46347b40e507.jpg)
-![0009](https://user-images.githubusercontent.com/48342926/176114802-dd3e97bb-2e12-4d9a-9441-06aca93a7e39.jpg)
-![0010](https://user-images.githubusercontent.com/48342926/176114738-d2c78a5c-7919-473a-9428-1742ba1495e6.jpg)
-![0011](https://user-images.githubusercontent.com/48342926/176114742-ed912854-43c7-4d7d-b1b1-6680561efc5f.jpg)
-![0012](https://user-images.githubusercontent.com/48342926/176114745-faea21e9-8a44-40d4-a4f4-dcbdcf862afe.jpg)
-![0013](https://user-images.githubusercontent.com/48342926/176114747-8e6577c8-d98d-4226-bf40-9c57011c1cf0.jpg)
-![0014](https://user-images.githubusercontent.com/48342926/176114753-89254b26-3fc3-4e89-853f-0e9c2f913ce1.jpg)
-![0015](https://user-images.githubusercontent.com/48342926/176114756-08b580b4-223d-4d51-8f08-31cad5f5b9fe.jpg)
-![0016](https://user-images.githubusercontent.com/48342926/176114758-bfc6d554-7d20-4b9d-b57e-fd68d66f38a2.jpg)
-![0017](https://user-images.githubusercontent.com/48342926/176114762-8b88f309-2eb7-4c07-9575-a6cf3eb5d8f7.jpg)
-![0018](https://user-images.githubusercontent.com/48342926/176114763-04319941-57d6-4703-8f47-cbfc17efa307.jpg)
-![0019](https://user-images.githubusercontent.com/48342926/176114764-4c9b7232-329b-43ed-b5e5-dbae7b633fd4.jpg)
-![0020](https://user-images.githubusercontent.com/48342926/176114770-285afb26-d6cb-4fb7-bc02-fdb250d3242a.jpg)
+- [개요](#개요)
+- [상세기능](#상세기능)
+    - [메인 페이지](#메인-페이지)
+    - [회원 페이지](#회원-페이지)
+    - [검색 페이지](#검색-페이지)
+    - [고객센터 페이지](#고객센터-페이지)
+    - [나의 관심단지 페이지](#나의-관심단지-페이지)
+- [개발환경](#개발환경)
+- [프로젝트 정보](#프로젝트-정보)
+<br></br>
+
+## 개요
+- 부동산 거래 시, 개인이 필요한 정보를 얻는 과정의 불편함을 개선
+- 부동산 거래 관련 공공데이터를 지도 기반으로 제공해, 쉽게 정보에 접근할 수 있도록 함
+- 가격비교, 시세확인, 질의응답, 내역조회 등의 기능 제공
+<br></br>
+
+## 상세기능
+### 메인 페이지
+
+<details markdown="1">
+<summary> 펼쳐서 캡쳐화면을 확인하세요❗ </summary>
+
+![Untitled](https://user-images.githubusercontent.com/26182769/176634597-09f5589c-276a-4cf5-8200-9c93a8ca3794.png)
+
+</details>
+
+1. 배너 및 단축 메뉴
+2. 집사 ZIPSA 홍보영상
+3. 공지사항 최근 5개 글
+4. 관련 웹사이트 링크
+<br></br>
+
+### 회원 페이지
+
+<details markdown="1">
+<summary> 펼쳐서 캡쳐화면을 확인하세요❗ </summary>
+
+![Untitled 1](https://user-images.githubusercontent.com/26182769/176634643-2ceb23ae-5ceb-42f5-8831-eab4907e286a.png)
+
+</details>
+
+1. 로그인
+2. 회원가입
+3. 회원정보 수정
+4. 아이디, 비밀번호 찾기(이메일 연동)
+<br></br>
+
+### 검색 페이지
+
+<details markdown="1">
+<summary> 펼쳐서 캡쳐화면을 확인하세요❗ </summary>
+
+![Untitled 2](https://user-images.githubusercontent.com/26182769/176634655-16cd4e5e-10ae-4518-96be-f6b2651c8833.png)
+
+</details>
+
+1. 지역별 검색
+2. 클릭 시 상세 공공데이터 팝업
+3. 더블 클릭 시 해당 주택으로 지도 이동
+4. 관심 목록 추가 가능
+<br></br>
+
+### 고객센터 페이지
+
+<details markdown="1">
+<summary> 펼쳐서 캡쳐화면을 확인하세요❗ </summary>
+
+![Untitled 3](https://user-images.githubusercontent.com/26182769/176634663-985ed6e6-5651-429d-843b-55be6d5a60fd.png)
+
+</details>
+
+1. 공지사항, Q&A의 최근 5개 페이지 노출
+2. 더보기 클릭 시 해당 게시판으로 이동
+3. 글쓰기 및 댓글 작성 가능 (Q&A : 관리자만 답변 허용)
+<br></br>
+
+### 나의 관심단지 페이지
+
+<details markdown="1">
+<summary> 펼쳐서 캡쳐화면을 확인하세요❗ </summary>
+
+![Untitled 4](https://user-images.githubusercontent.com/26182769/176634670-f223c460-251a-4cf8-81c7-29410b53993c.png)
+
+</details>
+
+1. 관심 목록 삭제 기능
+2. 차트 비교 시각화 기능
+3. 상세 거래내역 확인 기능
+<br></br>
+
+## 개발환경
+- **BackEnd**  : Java, Spring Boot, MyBatis, MySQL
+- **FrontEnd** : Vue.js, Bootstrap, HTML/CSS/JS
+
+![Untitled 5](https://user-images.githubusercontent.com/26182769/176634680-c2e0c75a-3553-4a00-9f90-cf010d06bff4.png)
+<br></br>
+
+## 프로젝트 정보
+- **류형주** [https://github.com/ruhz3](https://github.com/ruhz3)
+(주 : FrontEnd, 부 : BackEnd)<br>
+**민하은** [https://github.com/minhaeun](https://github.com/minhaeun) 
+(주 : BackEnd, 부 : FrontEnd)
+- 2022.05.15(일) ~ 2022.05.26(목)
+- Samsung Software Academy For Youth
